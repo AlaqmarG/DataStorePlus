@@ -1,7 +1,7 @@
 {
   "name": "@rbxts/datastoreplus",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Roblox data storage package simplifying data storage and enriching OrderedDataStores.",
   "main": "out/init.lua",
   "scripts": {
     "build": "rbxtsc",
@@ -9,7 +9,8 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": [],
-  "author": "",
+  "author": "Alaqmar Gandhi",
+  "repository": "https://github.com/AlaqmarG/DataStorePlus",
   "license": "ISC",
   "type": "commonjs",
   "types": "out/index.d.ts",
