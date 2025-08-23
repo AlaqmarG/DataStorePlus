@@ -2,7 +2,7 @@ name: Lint and Typecheck
 run-name: "Linting and Typechecking your code! 🚀"
 
 on:
-  pull-request:
+  pull_request:
     branches: ["main"]
 
 jobs:
